@@ -28,7 +28,7 @@ pipeline {
             steps {
                 echo 'Deliver....'
                 sh '''
-                echo "doing delivery stuff.. ehehrhhehre"
+                echo "doing delivery stuff.. check scm trigger!!!!!!!!!!!!!!!!!!!!1"
                 '''
             }
         }
